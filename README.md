@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ikhyeon's%20Github&fontSize=90)
 
 ### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlrgus2928%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Java 로고](https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white)
 ![Spring Boot 로고](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=round-square&logo=springboot&logoColor=white)
