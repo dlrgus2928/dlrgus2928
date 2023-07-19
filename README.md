@@ -1,3 +1,7 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Ikhyeon's%20Github&fontSize=90)
+
 ### Hi there 👋
 
 ![Java 로고](https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white)
