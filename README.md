@@ -38,6 +38,8 @@
 ![Figma 로고](https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white)
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrgus2928&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=dlrgus2928&show_icons=true">
 
 
 ***
